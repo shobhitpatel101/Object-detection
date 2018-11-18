@@ -1,4 +1,6 @@
 # Object-detection
-Real time object detection using templete image in opencv.
+Real time object detection using Opencv.
+finds templete image in real time webcame image.
 
-Change the folder/path where templete image is stored.
+If want to use for your project then 
+- Change the folder/path where templete image is stored.
